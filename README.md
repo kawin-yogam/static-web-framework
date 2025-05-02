@@ -1,9 +1,9 @@
-# HTML & CSS Learning  
+A minimal project exploring static web layouts using HTML and CSS.
 
-Just a simple repository where I practice **HTML and CSS**. Nothing fancy—just experimenting and learning the basics. I'll add more as I improve.  
+## Contents
+- Responsive page structure
+- Basic styling patterns
+- Component-based layout approach
 
-## How to Use  
-- Clone the repo and open the files in a browser.  
-- Feel free to explore or suggest improvements!  
-
-More to come soon! 🚀  
+## Purpose
+This repository is used for practicing and testing front-end layout techniques.
